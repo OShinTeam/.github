@@ -1,10 +1,14 @@
-# OShinTeam
+<div align="center">
+  
+# OShin Team
+
+</div>
 
 <div align="center">
 
-![OShinTeam Banner](https://raw.githubusercontent.com/OShinTeam/OShin/release/.github/assets/banner.png)
+![OShinTeam Banner](../banner.png)
 
-### 下一代网盘聚合客户端 | Next-Generation Cloud Storage Aggregator
+### 下一代桌面客户端 | Next-Generation Desktop Client
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 [![GitHub Stars](https://img.shields.io/github/stars/OShinTeam/OShin?style=flat-square)](https://github.com/OShinTeam/OShin/stargazers)
@@ -16,11 +20,11 @@
 
 ## 🎯 项目概览
 
-**OShinTeam** 是一个专注于**多网盘聚合**的开源组织，致力于打造新一代网盘客户端体验。
+**OShinTeam** 是一个专注于**功能聚合**、**代码解耦**的开源组织，致力于打造下一代桌面客户端程序。
 
 我们的核心理念：
 - 🔌 **插件化架构** - 灵活可扩展的设计
-- 🌐 **多网盘支持** - 统一管理多个云存储服务
+- 🌐 **多功能支持** - 统一管理多个服务
 - 💻 **原生体验** - 跨平台桌面应用，性能优异
 - 🤖 **AI 赋能** - 智能文件管理与自动化
 
@@ -30,12 +34,12 @@
 
 <div align="center">
 
-| 项目 | 描述 | 语言 | Stars |
-|:---:|:---|:---:|:---:|
-| [OShin](https://github.com/OShinTeam/OShin) | 多网盘聚合桌面客户端 | TypeScript | ⭐ 2 |
-| [OShinC](https://github.com/OShinTeam/OShinC) | Go + Lua 安全沙箱执行引擎 | Go | ⭐ 0 |
-| [OShinD](https://github.com/OShinTeam/OShinD) | 轻量级多协议多线程下载工具 | Go | ⭐ 0 |
-| [OShinHub](https://github.com/OShinTeam/OShinHub) | OShin 官方插件市场 | - | ⭐ 0 |
+| 项目 | 描述 | 语言 |
+|:---:|:---|:---:|
+| [OShin](https://github.com/OShinTeam/OShin) | 多网盘聚合桌面客户端 | Wails |
+| [OShinC](https://github.com/OShinTeam/OShinC) | Go + Lua 安全沙箱执行引擎 | Go |
+| [OShinD](https://github.com/OShinTeam/OShinD) | 轻量级多协议多线程下载工具 | Go |
+| [OShinHub](https://github.com/OShinTeam/OShinHub) | OShin 官方插件市场 | Lua |
 
 </div>
 
