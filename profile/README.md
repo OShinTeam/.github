@@ -11,7 +11,7 @@
 ### 下一代桌面客户端 | Next-Generation Desktop Client
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-[![GitHub Stars](https://img.shields.io/github/stars/OShinTeam/OShin?style=flat-square)](https://github.com/OShinTeam/OShin/stargazers)
+[![Profile Views](https://komarev.com/ghpvc/?username=OShinTeam&style=flat-square)](https://github.com/orgs/OShinTeam/repositories)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Join%20Us-blue?logo=telegram)](https://t.me/kinhweb)
 
 </div>
