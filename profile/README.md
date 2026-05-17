@@ -10,9 +10,9 @@
 
 ### 下一代桌面客户端 | Next-Generation Desktop Client
 
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+[![Telegram Group](https://img.shields.io/badge/Group-Join%20Us-blue?logo=telegram&style=flat-square)](https://t.me/kinhweb)
+[![Telegram Channel](https://img.shields.io/badge/Channel-Follow%20Us-blue?logo=telegram&style=flat-square)](https://t.me/OShinTeam)
 [![Profile Views](https://komarev.com/ghpvc/?username=OShinTeam&style=flat-square)](https://github.com/orgs/OShinTeam/repositories)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Join%20Us-blue?logo=telegram)](https://t.me/kinhweb)
 
 </div>
 
@@ -32,16 +32,13 @@
 
 ## 📦 核心项目
 
-<div align="center">
-
 | 项目 | 描述 | 语言 |
 |:---:|:---|:---:|
-| [OShin](https://github.com/OShinTeam/OShin) | 多网盘聚合桌面客户端 | Wails |
+| [OShin](https://github.com/OShinTeam/OShin) | 多网盘聚合桌面客户端 | Wailsv2 |
+| [OShinHub](https://github.com/OShinTeam/OShinHub) | OShin 官方插件市场 | Lua |
 | [OShinC](https://github.com/OShinTeam/OShinC) | Go + Lua 安全沙箱执行引擎 | Go |
 | [OShinD](https://github.com/OShinTeam/OShinD) | 轻量级多协议多线程下载工具 | Go |
-| [OShinHub](https://github.com/OShinTeam/OShinHub) | OShin 官方插件市场 | Lua |
-
-</div>
+| [MGL](https://github.com/OShinTeam/MGL) | 一站式游戏启动器 | Wailsv2 |
 
 ---
 
@@ -55,6 +52,14 @@
 - 🌐 全功能的本地化使用体验
 - ⚡ 性能表现贴近原生桌面应用
 - 🤖 支持接入 AI 实现文件管理功能
+
+### 🧤 MGL - 一站式游戏启动器
+
+> 采用 Wails v2 + Vue + Go 构建的高性能桌面应用
+
+- 🔌 支持插件
+- 🌐 同步多平台数据
+- ⚡ 自定义游戏添加
 
 ### 🛡️ OShinC - Lua 脚本执行引擎
 
@@ -78,19 +83,11 @@
 
 ## 🛠️ 技术栈
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│  Frontend          │  Backend          │  Mobile   │
-├─────────────────────────────────────────────────────┤
-│  React             │  Go               │  Wails v2 │
-│  TypeScript        │  gopher-lua       │           │
-│  Wails v2          │  Protocol Buffers │           │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
+| Frontend | Backend | Mobile | Framework |
+|:---:|:---|:---:|:---:|
+| React | Go | Kotlin | Wails v2 |
+| Vue | Lua | uni-app | Gin |
+| TypeScript | Protobuf | | Gorm |
 
 ---
 
@@ -114,8 +111,8 @@
 | OShin | [AGPL-3.0](https://github.com/OShinTeam/OShin/blob/release/LICENSE) |
 | OShinC | [AGPL-3.0](https://github.com/OShinTeam/OShinC/blob/release/LICENSE) |
 | OShinD | [AGPL-3.0](https://github.com/OShinTeam/OShinD/blob/release/LICENSE) |
+| MGL | [GPL-3.0](https://github.com/OShinTeam/MGL/blob/main/LICENSE) |
 | OShinHub | [MIT](https://github.com/OShinTeam/OShinHub/blob/main/LICENSE) |
-
 ---
 
 <div align="center">
