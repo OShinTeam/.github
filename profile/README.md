@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![OShinTeam Banner](../banner.png)
+![OShinTeam Banner](../banner.webp)
 
 ### 下一代桌面客户端 | Next-Generation Desktop Client
 
