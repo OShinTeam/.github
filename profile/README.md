@@ -10,7 +10,7 @@
 
 ### 下一代桌面客户端 | Next-Generation Desktop Client
 
-[![Telegram Group](https://img.shields.io/badge/Group-Join%20Us-blue?logo=telegram&style=flat-square)](https://t.me/kinhweb)
+[![Telegram Group](https://img.shields.io/badge/Group-Join%20Us-blue?logo=telegram&style=flat-square)](https://t.me/OShinTeam_Chat)
 [![Telegram Channel](https://img.shields.io/badge/Channel-Follow%20Us-blue?logo=telegram&style=flat-square)](https://t.me/OShinTeam)
 [![Profile Views](https://komarev.com/ghpvc/?username=OShinTeam&style=flat-square)](https://github.com/orgs/OShinTeam/repositories)
 
